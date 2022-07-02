@@ -1,0 +1,5 @@
+{
+	"ip":"D3MONSHE11.aternos.me",
+	"port": "60614",
+	"name": "HEROBRINE"
+}
